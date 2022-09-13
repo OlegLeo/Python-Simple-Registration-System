@@ -1,2 +1,0 @@
-# Comandos de Git
-asdasdasdasdasdasdasd  
